@@ -1,0 +1,23 @@
+/*Will educate myself with CSS chatGPT helped me with the styling*/
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .EightBall {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .EightBall-header {
+    color: white;
+  }
+  
